@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+.line{
+    margin: auto;
+    width: 54px;
+    height: 6px;
+    background-color: aqua;
+}
+img:hover{
+    transform: scale(1.3);
+}
